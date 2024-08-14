@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Qoli Ngoveni, 
 
-Thee Geologist turned Data Scientist. Well, you might be wondering why I change my career from being a rocky to the numbers man. The simple answer to that is passion and curiousity. From my previous role as a Jnr Geologist at the mine's, I dealt with databases with a thousands rows of data. At that time it was difficult to handle such enomours dataset and make sense out of it. I knew then that I have to find a way to deal with this albatross, I then decided to do my research and discover something called 'SQL', I had no idea what it was and upond further research I stumble across 'dDatabases and SQL' course offered by Coursera. I took my chances, signed up for free trials and Boooom! I could not stop learning. And thats how I ended persuing Data Science. 
+Thee Geologist turned Data Scientist. Well, you might be wondering why I change my career from being a rocky to the numbers man. The simple answer to that is passion and curiousity. From my previous role as a Jnr Geologist at the mine's, I dealt with databases with a thousands rows of data. At that time it was difficult to handle such monumental dataset and make sense out of it. I knew then that I have to find a way to deal with this albatross, I then decided to do my research and discover something called 'SQL', I had no idea what it was and upon further research I stumble across 'Databases and SQL' course offered by Coursera. I took my chances, signed up for free trial and Boooom! I could not stop learning. And that's how I ended persuing Data Science Professional Certificate. It wasn't intentional, curiosity led me.
 
 
 BUT RIGHT NOW I NEED YOUR HELP!!!
