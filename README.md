@@ -3,7 +3,7 @@
 
 You might be wondering why I transitioned from being a geologist to diving into the world of data science. The answer is simple: passion and curiosity.
 
-In my previous role as a Junior Geologist at a mining company, I frequently dealt with databases containing thousands of rows of data. Managing such a large dataset and extracting meaningful insights was challenging. It was then that I realized I needed a more efficient way to handle this data. My curiosity led me to discover SQL, and after some research, I found a course on 'Databases and SQL' offered by Coursera. I took a chance, signed up for a free trial, and I was hooked. My journey into data science started from there, and before I knew it, I had earned a Data Science Professional Certificate. This shift wasn't planned—curiosity led the way.
+In my previous role as a Junior Geologist at a mining company, I frequently dealt with databases containing thousands of rows of data. Managing such a large dataset and extracting meaningful insights was challenging. It was then that I realized I needed a more efficient way to handle this data. My curiosity led me to discover SQL, and after some research, I found a course on 'Relatioanal Databases and SQL' offered by Coursera. I took a chance, signed up for a free trial, and I was hooked. My journey into data science started from there, and before I knew it, I had earned a Data Science Professional Certificate. This shift wasn't planned—curiosity led the way.
 
 I'm Reaching Out for Your Help!
 
@@ -11,9 +11,9 @@ This is me sending out an SOS. I'm actively seeking opportunities to kick-start 
 
 My Skills:
 
-Data Analysis
-Data Visualization
-Training and Evaluating Machine Learning Models
+Data Analysis,
+Data Visualization,
+Training and Evaluating Machine Learning Models,
 Managing Relational Databases with Python and SQL
 ⚡ Fun Fact: After Data Science, my second love is music. There's no mountain I wouldn't climb with my favorite tunes playing."
 
