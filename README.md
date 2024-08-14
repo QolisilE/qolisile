@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Qoli Ngoveni, 
+
+Thee Geologist turned Data Scientist. Well, you might be wondering why I change my career from being a rocky to the numbers man. The simpl;e answer to that is passion. From my previous role as a Jnr Geologist at the mine i delt with a great numbers that were hard and difficult to make sense of it, I then decided to start 
 
 ### I’m currently learning Machine Learning training and evaluation model,Data Analysis with Python,Data Visualizations and Relational Database Querying with SQL. I am also looking into exploring Power Bi in a near future. 
 
